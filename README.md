@@ -1,10 +1,10 @@
 # Resources
 **Read or watch:**
-[Google](https://intranet.alxswe.com/rltoken/tn1X658KGumYYq_szFJI5w)
-[Using Extern to share variable](https://intranet.alxswe.com/rltoken/0KVWTdE8xXy__jUfBfakCw)
-[Stacks and Queues in C](https://intranet.alxswe.com/rltoken/udmomL4F4mF630D2Z-ltqg)
-[Stack Operations](https://intranet.alxswe.com/rltoken/fj_-SJXW-pWxgAnstsARoQ)
-[Queue Operations](https://intranet.alxswe.com/rltoken/6Y_GVoIH_rV45xd7w0a9FA)
+* [Google](https://intranet.alxswe.com/rltoken/tn1X658KGumYYq_szFJI5w)
+* [Using Extern to share variable](https://intranet.alxswe.com/rltoken/0KVWTdE8xXy__jUfBfakCw)
+* [Stacks and Queues in C](https://intranet.alxswe.com/rltoken/udmomL4F4mF630D2Z-ltqg)
+* [Stack Operations](https://intranet.alxswe.com/rltoken/fj_-SJXW-pWxgAnstsARoQ)
+* [Queue Operations](https://intranet.alxswe.com/rltoken/6Y_GVoIH_rV45xd7w0a9FA)
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
